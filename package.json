@@ -4,8 +4,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "npx tinacms dev -c \"astro dev\"",
-		"start": "astro dev",
-		"build": "astro build"
+    "start": "astro dev",
+    "build": "astro build"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.0.1",
